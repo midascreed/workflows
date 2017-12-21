@@ -1,0 +1,23 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midascreed/workflows.git"
+  },
+  "author": "danielKle <khuong.le@ksqagency.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-coffee": "^2.3.5",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-until": "^0.1.3",
+    "jquery": "^3.2.1",
+    "mustache": "^2.3.0"
+  }
+}
